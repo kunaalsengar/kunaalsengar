@@ -4,7 +4,7 @@
 
 
 ## 🌐 Socials:
-[![Twitter](https://twitter.com/kunaalsengarlogo=Twitter&logoColor=white)](https://twitter.com/ezSnippet)[![LinkedIn](https://www.linkedin.com/in/kunal-sengar-42645a331/&logoColor=white)](https://linkedin.com/in/ezSnippet)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kunaalsengar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sengar-42645a331/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)]([https://stackoverflow.com/users/20331641](https://stackoverflow.com/users/23330346/kunal-sengar?tab=profile)) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kunaalsengar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
